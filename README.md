@@ -1,6 +1,6 @@
 # Olá, eu sou o Dante 👋🏼
 
-Sou um desenvolvedor Front-end apaixonado por criar interfaces interativas e eficientes usando **React.js** e **TypeScript**. Atualmente, estou trabalhando na [Revelo]([(https://www.revelo.com.br/)]), onde aplico minhas habilidades para construir soluções inovadoras e de alta qualidade.
+Sou um desenvolvedor Front-end apaixonado por criar interfaces interativas e eficientes usando **React.js** e **TypeScript**. Atualmente, estou trabalhando na [Revelo]([https://www.revelo.com.br/]), onde aplico minhas habilidades para construir soluções inovadoras e de alta qualidade.
 
 ## 🛠️ Tecnologias e Ferramentas
 
