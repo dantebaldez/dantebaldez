@@ -1,45 +1,46 @@
-# Olá, eu sou o Dante 👋🏼
+# 🔮 E aí, sou o Dante 👋🏼
 
-Sou um desenvolvedor Front-end apaixonado por criar interfaces interativas e eficientes usando **React.js** e **TypeScript**. Atualmente, estou trabalhando na [Revelo](https://www.revelo.com.br/), onde aplico minhas habilidades para construir soluções inovadoras e de alta qualidade.
+Dev Front-end que curte criar interfaces interativas usando **React.js** e **TypeScript**.  
+Sou aquele cara que acredita que código é só parte da parada — o importante é resolver problema e trabalhar em time que soma.
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-- **Linguagens:** JavaScript (React.js), TypeScript
-- **Bibliotecas e Frameworks:** React.js, Redux, Next.js
-- **Ferramentas:** Git, Trello e Jira
-- **Design e UX:** Noções de UX/UI design para criar interfaces amigáveis e intuitivas
-- **Metodologias Ágeis:** Experiência como Scrum Master
+## ✅ Tecnologias e Ferramentas
 
-## 📚 Portfolio
+- **JavaScript (React.js)**  
+- **TypeScript**  
+- **Redux, Next.js**  
+- **Git, Trello, Jira**  
+- **Noções de UX/UI**  
+- **Scrum Master**
 
-Você pode conferir alguns dos meus projetos no [meu portfolio pessoal](https://dantegabriel-tech.netlify.app/). Lá, você encontrará uma seleção dos meus trabalhos mais recentes e um pouco mais sobre mim.
+---
+
+## 📚 Portfólio
+
+Quer ver meus projetos? Confere lá:  
+👉 [Meu portfolio pessoal](https://dantegabriel-tech.netlify.app/)
+
+---
 
 ## 📝 Boas Práticas
 
-### Comentários em Commits
+### Comentários em Commits  
+Uso commits semânticos pra manter o código organizado e o histórico limpo.
 
-Adoto o uso de commits semânticos para garantir que o histórico do projeto seja claro e compreensível. Aqui estão algumas diretrizes que sigo:
+- `feat:` função nova  
+- `fix:` correção  
+- `docs:` documentação
 
-- **Tipo:** Utilize prefixos para descrever o tipo de mudança (`feat` para novas funcionalidades, `fix` para correções de bugs, `docs` para documentação, etc.).
-- **Descrição:** Mantenha as mensagens de commit concisas e informativas. A primeira linha deve ser uma breve descrição do que foi feito (até 50 caracteres) e, se necessário, inclua um corpo mais detalhado.
+### README Informativo  
+Gosto de deixar claro o que o projeto faz, tecnologias usadas, como usar, contribuir e licença.
 
-Exemplos de mensagens de commit:
-- `FEAT: adicionar novo componente de formulário`
-- `fix: corrigir erro de validação no componente de login`
-- `DOCS: atualizar README com informações sobre configuração`
+---
 
-### README Informativo
+## 🔥 Bora trocar ideia?
 
-Para manter o README informativo e útil, eu sigo estas práticas:
+[Me manda um email!](mailto:dantegl2000@gmail.com)  
+dantegl2000@gmail.com
 
-- **Introdução:** Forneço uma visão geral clara do projeto, incluindo o que ele faz e qual problema resolve.
-- **Tecnologias e Ferramentas:** Descrevo as principais tecnologias e ferramentas usadas no projeto.
-- **Instruções de Uso:** Incluo um guia sobre como instalar, configurar e usar o projeto.
-- **Contribuição:** Explico como outros desenvolvedores podem contribuir para o projeto.
-- **Licença:** Adiciono informações sobre a licença do projeto para esclarecer os termos de uso e redistribuição.
+---
 
-## 📫 Entre em Contato
-
-- **Email:** dantegl2000@gmail.com
-
-Estou sempre aberto a novas oportunidades e desafios. Se você tiver um projeto interessante ou apenas quiser conversar sobre tecnologia, sinta-se à vontade para entrar em contato!
